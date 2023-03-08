@@ -13,3 +13,7 @@ The training of neural networks requires a very high computational cost, in this
 
 ### Data
 https://www.kaggle.com/competitions/face-mask-detection/data
+
+### Results
+
+<img src="images/CNN_Predicting.png">
